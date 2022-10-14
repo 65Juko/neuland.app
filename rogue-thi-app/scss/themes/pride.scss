@@ -5,7 +5,7 @@ $theme-colors: (
 @import "dark.scss";
 $body-bg: black;
 
-@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "../../node_modules/bootstrap/dist/css/bootstrap";
 
 // react-placeholder
 // declare after bootstrap, since we need bootstrap variables
